@@ -10,7 +10,7 @@ excerpt: 'This paper is about Hybrid coperative wireless system consisting of an
 date: 2019-05-27
 venue: '2018 Conference on Information and Communication Technology (CICT)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8722354'
-citation: 'Samavedam Manikhanta Praphul, You. (2019). &quot;Energy Harvesting, Hybrid, Cooperative Wireless System Modeling and Outage Performance Analysis.&quot; <i>2018 Conference on Information and Communication Technology (CICT)</i>. 1(1).'
+citation: 'Praphul, Samavedam M. and Priya Kalathuru, Bindu and Bitragunta, Sainath (2019). &quot;Energy Harvesting, Hybrid, Cooperative Wireless System Modeling and Outage Performance Analysis.&quot; <i>2018 Conference on Information and Communication Technology (CICT)</i>. 1(1).'
 ---
 
 [Download paper from here](https://ieeexplore.ieee.org/abstract/document/8722354)
