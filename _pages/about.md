@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am data scientist currently working at UBS under the investment banking division."
+title: "Samavedam Manikhanta Praphul"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
