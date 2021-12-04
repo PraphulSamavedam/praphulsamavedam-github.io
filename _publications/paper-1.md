@@ -3,7 +3,7 @@ title: "Energy Harvesting, Hybrid, Cooperative Wireless System Modeling and Outa
 collection: publications
 permalink: /publication/paper-1
 excerpt: 'This paper is about Hybrid coperative wireless system consisting of analog and digital link with energy
- harvesting relay nodes. Relay nodes harvest energy for small \tau fraction and uses this harvested energy to process
+ harvesting relay nodes. Relay nodes harvest energy for small 𝜏 fraction and uses this harvested energy to process
  the input signal and relay to next node. This papers focusses on closed loop form of outage probability of these
   hybrid energy harvesting systems in the presence of various noises and purports the usage of 2 signal
    enhancement techniques: Pre-Emphashis (PE) and De-Emphasis (DE) for lowering the outage probability'
@@ -15,4 +15,8 @@ citation: 'Samavedam Manikhanta Praphul, You. (2019). &quot;Energy Harvesting, H
 
 [Download paper from here](https://ieeexplore.ieee.org/abstract/document/8722354)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 
+<i>@INPROCEEDINGS{8722354,  author={Praphul, Samavedam M. and Priya Kalathuru, Bindu and Bitragunta, Sainath
+},  booktitle={2018 Conference on Information and Communication Technology (CICT)},   title={Energy Harvesting
+, Hybrid, Cooperative Wireless System Modeling and Outage Performance Analysis},   year={2018},  volume={},  number
+={},  pages={1-5},  doi={10.1109/INFOCOMTECH.2018.8722354}} </i>
