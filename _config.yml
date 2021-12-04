@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal website: Samavedam Manikhanta Praphul"
-title_separator          : "-"
+title                    : "SMPraphul"
+title_separator          : "_"
 name                     : &name "Samavedam Manikhanta Praphul"
 description              : &description "personal description"
 url                      : https://praphulsamavedam.github.io # the base hostname & protocol for your site e.g.
