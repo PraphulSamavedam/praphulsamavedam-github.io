@@ -13,6 +13,6 @@ paperurl: 'https://ieeexplore.ieee.org/abstract/document/8722354'
 citation: 'Samavedam Manikhanta Praphul, You. (2019). &quot;Energy Harvesting, Hybrid, Cooperative Wireless System Modeling and Outage Performance Analysis.&quot; <i>2018 Conference on Information and Communication Technology (CICT)</i>. 1(1).'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper from here](https://ieeexplore.ieee.org/abstract/document/8722354)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
