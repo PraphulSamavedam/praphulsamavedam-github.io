@@ -3,14 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: " Projects Portfolio"
+    url: /portfolio/
+
 #  - title: "Talks"
 #    url: /talks/
 
   - title: "Teaching experience"
     url: /teaching/    
-    
-  - title: " Projects Portfolio"
-    url: /portfolio/
+
+  - title: "Leadership experience"
+    url: "/leadership/"
 #
 #  - title: "Blog Posts"
 #    url: /year-archive/

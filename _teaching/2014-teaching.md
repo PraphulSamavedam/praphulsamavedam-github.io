@@ -1,7 +1,7 @@
 ---
 title: "First Teaching experience"
 collection: teaching
-type: "School teaching for 7<sup>th</sup> classes"
+type: "School teaching for 7<sup>th</sup>class"
 permalink: /teaching/2014-teaching
 venue: "Schooling department, National Service Scheme (NSS), BITS-Pilani"
 date: 2014-08-25
