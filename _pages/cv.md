@@ -25,7 +25,7 @@ redirect_from:
     * 4 key performance indicators (KPIs) were migrated to Python using pandas library, which contributes to 26% of the calculation.
     * Automated the refresh of the Python KPIs within a month, reducing 5 working-hours monthly.
     * Lead the team towards Agile methodology increasing the productivity of the team by 12% based on lead-time.
-    * Introduced the Alteryx into the tech–stack of the team, thereby reducing the manual process time by nearly 20%.  
+    * Introduced the Alteryx into the tech–stack of the team, thereby reducing the manual process time by nearly 20%. 
 
 * Jul 2017 - Dec 2017: Validation internship at [Nvidia](https://www.nvidia.com/en-in/), Bangalore
     * **Internship Summary:** Validation of hardware architecture to be ARM Compliant.

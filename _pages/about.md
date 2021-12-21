@@ -10,14 +10,13 @@ redirect_from:
   - /aboutme.html
   - /aboutme/
 ---
-Name: Samavedam Manikhanta Praphul
+Data Scientist
 ======
+I am working as a data scientist at [UBS](https://www.ubs.com/) under the client analytics team of the
+ global markets sub division in the investment banking(_IB_) division.
 ## Summary
-I am a data scientist working at [UBS](https://www.ubs.com/) under the client analytics team of the global markets
-sub division in the investment banking division. I am adept in data analytic skills with an experience of nearly 3.5
-years in business intelligence tools. I dare to travel the unravelled path for a challenging career in the digital revolution with a keen interest in artificial
-intelligence post my graduation from BITS-Pilani.      
-
+I am adept in data analytic skills with an experience of nearly 3.5 years in business intelligence tools. I dare to travel the unravelled path for a challenging career in the digital revolution with a keen interest in artificial
+intelligence post my graduation from BITS-Pilani.   
 ## Research Areas:
 
 This website is under development.   
