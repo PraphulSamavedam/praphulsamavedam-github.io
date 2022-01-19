@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Second Teaching experience"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "School teaching for 8<sup>th</sup>class"
+permalink: /teaching/2015-teaching
+venue: "Schooling department, National Service Scheme (NSS), BITS-Pilani"
+date: 2015-08-12
+to_date: 2016-05-01
+location: "Pilani, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Based on my dedication to teach kids and my engagement with kids, I was promoted to the position of executive
+ committee member in this year. Despite the additional responsibility of an executive committee member, I continued
+  to teach my set of students in class 8th on their weak subjects. Through this, I had learned  management
+   skills of both time and work which were beneficial in my corporate life.  

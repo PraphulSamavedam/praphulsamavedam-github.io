@@ -5,6 +5,7 @@ type: "School teaching for 7<sup>th</sup>class"
 permalink: /teaching/2014-teaching
 venue: "Schooling department, National Service Scheme (NSS), BITS-Pilani"
 date: 2014-08-25
+to_date: 2015-05-01
 location: "Pilani, India"
 ---
 
@@ -14,4 +15,3 @@ Fond of teaching, I had joined the schooling department of National service sche
  have taught mathematics, science subjects for them. The average of student's marks improved by nearly 2%. 
 This first chance provided me the opportunity to teach, set paper and grade nearly 60 students. 
 dates: 2014-08-25 to 2018-05-01
-=======
