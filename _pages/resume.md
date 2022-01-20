@@ -10,3 +10,5 @@ redirect_from:
   - /resume_download.html
   - /downloadresume/
 ---
+## [Single page resume](../files/Resume - Samavedam Manikhanta Praphul.pdf)
+Todo linking pending
