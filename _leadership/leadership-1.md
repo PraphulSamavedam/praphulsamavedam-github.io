@@ -1,9 +1,6 @@
 ---
-title: "Leadership item number 1"
-excerpt: "Short description of Leadership number 1<br/><img src='/images/500x300.png'>"
+title: "School Executive Committee Member"
+excerpt: "Bring functional changes and enhancements in the schooling department of NSS, BITS-Pilani student chapter<br
+/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-
-This is an item in my leadership experience. It can be have images or nice text. If you name the file .md, it will be
- parsed as
- markdown. If you name the file .html, it will be parsed as HTML.
