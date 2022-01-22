@@ -1,5 +1,5 @@
 ---
-title: "Second Teaching experience"
+title: "2<sup>nd</sup> teaching experience"
 collection: teaching
 type: "School teaching for 8<sup>th</sup>class"
 permalink: /teaching/2015-teaching
