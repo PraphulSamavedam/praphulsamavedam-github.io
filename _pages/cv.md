@@ -4,14 +4,16 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
+  - /curriculumvitae
+  - /curriculum
+  - /cvitae
 ---
 
 {% include base_path %}
 
 ## Education
-* B.E.(Hons.) in Electrical & Electronics Engineering, Birla Institute of Technology and Sciences Pilani (BITS-Pilani)
-, 2014-2018
+* B.E.(Hons.) in Electrical & Electronics Engineering, Birla Institute of Technology and Sciences Pilani (BITS-Pilani), 2014-2018
 
 ## Work experience
 * Jul 2018 - Present: Data Scientist at [UBS](https://www.ubs.com/), Pune
@@ -34,7 +36,7 @@ redirect_from:
         * Write in machine language the [bare metal tests](https://en.wikipedia.org/wiki/Bare_machine) and conduct them on the Nvidia natively developed ARM (ASIM), Denver simulators (DSIM) accounting to 93% coverage.
     * **Supervisers**: Navin Yagnamurthy, CPU Validation Manager & Ashok Patil, CPU Architecture Validation Engineer
      
-* Jun 2016 - Jul 2016: IoT application development at PensioTech Pvt. Ltd, Hyderabad
+* Jun 2016 - Jul 2016: IoT application development at [PensioTech Pvt. Ltd](https://in.linkedin.com/company/pensio-software-technologies-pvt-ltd), Hyderabad
   * **Internship Summary:** Development of remote monitoring system for transformers.
   * **Duties included:** 
     * Development of industry level voltage sensor for transformer's high voltage in [Eagle CAD](http://eagle.autodesk.com/).
@@ -44,36 +46,39 @@ redirect_from:
   * **Superviser**: Saideep Reddy, Director, PensioTech
   
 ## Programming Languages
-Python ![Python logo](../images/languages/Python-logo.png 9x9),SQL,  Java ![Java Logo](../images/languages/java-logo.png 9x9), Apache Spark ![Apache Spark](../images/languages/Apache_Spark-logo.png 9x9), 
+Python ![Python logo](../images/languages/Python-logo.png 9x9)
+SQL ![SQL Logo](../images/languages/Sql_data_base_with_logo.png 9x9),
+Java ![Java Logo](../images/languages/java-logo.png 9x9), 
+Apache Spark ![Apache Spark](../images/languages/Apache_Spark-logo.png 9x9)
 
 Skills 
 ======
-* Alteryx (Advanced certified)
-* Deep Neural 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Business Intelligence
+  * Oracle Database
+  * Alteryx (Advanced certified)
+  * Tableau
+* Artificial Intelligence
+    * Deep neural networks
+    * Tensorflow and keras
+    * Machine learning
+* Cloud and Big data
+    * Microsoft Azure (AI-900, DP-900, AZ-900 certified)
+    * Apache Spark (learning now)
+    
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+ 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Leadership
 ======
-* Currently signed in to 43 different slack teams
+  <ul>{% for post in site.leadership %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>

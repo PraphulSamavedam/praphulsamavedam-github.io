@@ -1,5 +1,5 @@
 ---
-title: "First Teaching experience"
+title: "1<sup>st</sup> Teaching experience"
 collection: teaching
 type: "School teaching for 7<sup>th</sup>class"
 permalink: /teaching/2014-teaching
@@ -14,4 +14,3 @@ Fond of teaching, I had joined the schooling department of National service sche
  throughout all my 4 years of undergraduate studies at Birla Institute of Technology and Science, Pilani (BITS-Pilani).I 
  have taught mathematics, science subjects for them. The average of student's marks improved by nearly 2%. 
 This first chance provided me the opportunity to teach, set paper and grade nearly 60 students. 
-dates: 2014-08-25 to 2018-05-01
