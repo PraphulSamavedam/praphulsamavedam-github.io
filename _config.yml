@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SMPraphul"
-title_separator          : "_"
+title                    : "Personal website"
+title_separator          : ""
 name                     : &name "Samavedam Manikhanta Praphul"
 description              : &description "personal description"
 url                      : https://praphulsamavedam.github.io # the base hostname & protocol for your site e.g.
@@ -183,6 +183,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  leadership:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -238,6 +241,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+# _leadership
+  - scope:
+      path: ""
+      type: leadership
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _talks
   - scope:
       path: ""
