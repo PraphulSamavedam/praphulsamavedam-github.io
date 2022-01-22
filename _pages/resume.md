@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /resume
 title: "Resume"
 excerpt: "Various Resume"
 author_profile: true
@@ -10,5 +10,7 @@ redirect_from:
   - /resume_download.html
   - /downloadresume/
 ---
-## [Single page resume](../files/Resume - Samavedam Manikhanta Praphul.pdf)
-Todo linking pending
+## Single page resume
+[View](../files/"Resume - Samavedam Manikhanta Praphul.pdf")
+[Download](https://raw.githubusercontent.com/PraphulSamavedam/praphulsamavedam.github.io/blob/master/files/Resume%20-%20Samavedam%20Manikhanta%20Praphul.pdf
+)
