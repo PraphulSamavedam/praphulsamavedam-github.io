@@ -12,5 +12,5 @@ redirect_from:
 ---
 
 ## Single page resume
-[View](../files/Resume_Samavedam_Manikhanta_Praphul.pdf)
-[Download](https://raw.githubusercontent.com/PraphulSamavedam/praphulsamavedam.github.io/blob/master/files/Resume_Samavedam_Manikhanta_Praphul.pdf)
+[View](../files/Resume-Samavedam_Manikhanta_Praphul.pdf)
+[Download](https://github.com/PraphulSamavedam/praphulsamavedam.github.io/raw/master/files/Resume-Samavedam_Manikhanta_Praphul.pdf)
