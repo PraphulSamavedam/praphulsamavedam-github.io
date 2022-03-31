@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal website"
+title                    : "Samavedam Manikhanta Praphul"
 title_separator          : ""
 name                     : &name "Samavedam Manikhanta Praphul"
-description              : &description "personal description"
+description              : &description "personal website with major details of my life"
 url                      : https://praphulsamavedam.github.io # the base hostname & protocol for your site e.g.
 #  "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Samavedam Manikhanta Praphul"
   avatar           : "profile.png"
-  bio              : "Exploring the artificial intelligence and data science worlds."
+  bio              : "Exploring the artificial intelligence and data science worlds"
   location         : "India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
