@@ -20,7 +20,13 @@ I was working as a data scientist at [UBS](https://www.ubs.com/) under the clien
 Working as a control specialist under the MIS Analytics team under the Operations Control Management(OCM) division,
 I am responsible for developing the control analytics reports to senior risk management executives at global level and region level i.e. APAC, AMER and EMEA regions.
 
-Access my prior experiences [here]() -- Corporate experiences Link needs to be added and updated.
+Prior Corporate experiences 
+- Data Scientist at UBS (Authorized Officer role) ~ 3.5 years
+
+Access details of Corporate experiences [here]() -- Corporate experiences Link needs to be added and updated.
+
+#### Research experience
+- IEEE Paper titled "Energy Harvesting, Hybrid, Cooperative Wireless System Modeling and Outage Performance Analysis"
 
 ## Resume
 Get my latest resume from [here](https://praphulsamavedam.github.io/resume/)
