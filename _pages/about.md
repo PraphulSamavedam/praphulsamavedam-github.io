@@ -11,12 +11,17 @@ redirect_from:
   - /aboutme/
 ---
 ## Summary
-I am adept in data analytic skills with an experience of nearly 3.5 years in business intelligence tools. I dare to
- travel the unravelled path for a challenging career in the digital revolution with a keen interest in artificial intelligence post my graduation from BITS-Pilani.
-
-#### Latest job: Data Scientist
+I am adept in data analytic skills with nearly 4 years of experience working at UBS, BNY Mellon.  
+I dare to travel the unravelled path for a challenging career in the digital revolution with a keen interest in artificial intelligence post my graduation from BITS-Pilani.
 I was working as a data scientist at [UBS](https://www.ubs.com/) under the client analytics team of the global markets
  sub division in the investment banking(_IB_) division.
+
+#### Latest job: Control Specialist (Vice president) at [BNY Mellon](https://www.bnymellon.com/)
+Working as a control specialist under the MIS Analytics team under the Operations Control Management(OCM) division,
+I am responsible for developing the control analytics reports to senior risk management executives at global level and region level i.e. APAC, AMER and EMEA regions.
+
+Access my prior experiences [here]() -- Corporate experiences Link needs to be added and updated.
+
 ## Resume
 Get my latest resume from [here](https://praphulsamavedam.github.io/resume/)
 ## Curriculum Vitae

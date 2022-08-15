@@ -15,7 +15,7 @@ citation: 'Praphul, Samavedam M. and Priya Kalathuru, Bindu and Bitragunta, Sain
 
 [Download paper from here](https://ieeexplore.ieee.org/abstract/document/8722354)
 
-Recommended citation: 
+__Recommended citation:__ 
 <i>@INPROCEEDINGS{8722354,  author={Praphul, Samavedam M. and Priya Kalathuru, Bindu and Bitragunta, Sainath
 },  booktitle={2018 Conference on Information and Communication Technology (CICT)},   title={Energy Harvesting
 , Hybrid, Cooperative Wireless System Modeling and Outage Performance Analysis},   year={2018},  volume={},  number
