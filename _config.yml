@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/samavedam-manikhanta-praphul/"
+  linkedin         : "samavedam-manikhanta-praphul"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -189,6 +189,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  experiences:
+      output: true
+      permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
