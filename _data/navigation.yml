@@ -1,28 +1,32 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
-  - title: " Projects Portfolio"
+  - title: "Work Xp"
+    url: /experiences/
+
+  - title: "Projects"
     url: /portfolio/
 
-#  - title: "Talks"
-#    url: /talks/
-
-  - title: "Teaching experience"
-    url: /teaching/    
-
-  - title: "Leadership experience"
+  - title: "Leadership xp"
     url: "/leadership/"
-#
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
 
   - title: "Resume"
     url: /resume/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching xp"
+    url: /teaching/
+
+  #  - title: "Talks"
+  #    url: /talks/
+
+#  - title: "Blog Posts"
+#    url: /year-archive/
 
 #  - title: "Guide"
 #    url: /markdown/
