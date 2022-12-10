@@ -46,10 +46,10 @@ redirect_from:
   * **Superviser**: Saideep Reddy, Director, PensioTech
   
 ## Programming Languages
-Python ![Python logo](../images/languages/Python-logo.png 9x9)
-SQL ![SQL Logo](../images/languages/Sql_data_base_with_logo.png 9x9),
-Java ![Java Logo](../images/languages/java-logo.png 9x9), 
-Apache Spark ![Apache Spark](../images/languages/Apache_Spark-logo.png 9x9)
+Python ![Python logo](images/languages/Python-logo.png 9x9)
+SQL ![SQL Logo](images/languages/Sql_data_base_with_logo.png 9x9),
+Java ![Java Logo](images/languages/java-logo.png 9x9), 
+Apache Spark ![Apache Spark](images/languages/Apache_Spark-logo.png 9x9)
 
 Skills 
 ======
@@ -80,5 +80,11 @@ Teaching
 Leadership
 ======
   <ul>{% for post in site.leadership %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Experiences
+======
+<ul>{% for post in site.experiences %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
