@@ -11,19 +11,21 @@ redirect_from:
   - /aboutme/
 ---
 ## Summary
-I am adept in data analytic skills with nearly 4 years of experience working at UBS, BNY Mellon.  
-I dare to travel the unravelled path for a challenging career in the digital revolution with a keen interest in artificial intelligence post my graduation from BITS-Pilani.
-I was working as a data scientist at [UBS](https://www.ubs.com/) under the client analytics team of the global markets
- sub division in the investment banking(_IB_) division.
+Currently, pursuing my masters in Artificial Intelligence at the Khoury college of computer sciences, Boston. 
+I dare to travel the unravelled path for a challenging career with nearly 4 years of experience working as data scientist at UBS, BNY Mellon.
 
-#### Latest job: Control Specialist (Vice president) at [BNY Mellon](https://www.bnymellon.com/)
-Working as a control specialist under the MIS Analytics team under the Operations Control Management(OCM) division,
-I am responsible for developing the control analytics reports to senior risk management executives at global level and region level i.e. APAC, AMER and EMEA regions.
+Corporate experiences:
+- Control Specialist at BNY Mellon (Vice-president) in Operations Control Management(OCM) division. ~ 4 months. 
+    -- Responsible for developing the control analytics reports to senior risk management executives at global level and region level i.e. APAC, AMER and EMEA regions.
+- Data Scientist at UBS (Authorized Officer role) in Investment Banking(_IB_) division ~ 3.5 years.
+    -- Responsible for developing metrics (KPIs) and insights dashboard using Customer Relationship Management (CRM data) of investment division.
+- Application Specific Integrated Circuit (ASIC) Internship at Nvidia in CPU division ~ 6 months.
+    -- Responsible for bare metal tests to support newly introduced features of ARM v8.x for Nvidia’s Carmel processor.
+- Summer internship at PensioTech Solutions Pvt. Ltd. ~ 2months. 
+    -- IOT project to remotely monitor the earthpit monitoring systems and developed br
 
-Prior Corporate experiences 
-- Data Scientist at UBS (Authorized Officer role) ~ 3.5 years
 
-Access details of Corporate experiences [here]() -- Corporate experiences Link needs to be added and updated.
+Access details of Corporate experiences [here]() -- Coming soon. 
 
 #### Research experience
 - IEEE Paper titled "Energy Harvesting, Hybrid, Cooperative Wireless System Modeling and Outage Performance Analysis"
@@ -35,7 +37,7 @@ Have a look at [my cv](https://praphulsamavedam.github.io/cv/)
 
 ## Updates:
 This website is under development so some links might have placeholders, so kindly bare with me , else :raised_hand: via 
-[email](mailto:praphulsamavedam@gmail.com)
+[email](mailto:praphulsamavedam@gmail.com;samavedam.m@northeastern.edu)
 ![Site under development](../images/under_development.png 480)
 
 
