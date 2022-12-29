@@ -16,13 +16,14 @@ I dare to travel the unravelled path for a challenging career with nearly 4 year
 
 Corporate experiences:
 - Control Specialist at BNY Mellon (Vice-president) in Operations Control Management(OCM) division. ~ 4 months. 
-    -- Responsible for developing the control analytics reports to senior risk management executives at global level and region level i.e. APAC, AMER and EMEA regions.
-- Data Scientist at UBS (Authorized Officer role) in Investment Banking(_IB_) division ~ 3.5 years.
-    -- Responsible for developing metrics (KPIs) and insights dashboard using Customer Relationship Management (CRM data) of investment division.
+    - Responsible for developing the control analytics reports to senior risk management executives at global level and region level i.e. APAC, AMER and EMEA regions.
+- Data Scientist at UBS (Employee and Authorized Officer role) in Investment Banking(_IB_) division ~ 3.5 years.
+    - Responsible for developing metrics (KPIs) and data-driven interactive insights dashboards for senior 
+management members in the global markets under Investment Banking(<i>IB</i>) division.
 - Application Specific Integrated Circuit (ASIC) Internship at Nvidia in CPU division ~ 6 months.
-    -- Responsible for bare metal tests to support newly introduced features of ARM v8.x for Nvidia’s Carmel processor.
+    - Responsible for bare metal tests to support newly introduced features of ARM v8.x for Nvidia’s processor.
 - Summer internship at PensioTech Solutions Pvt. Ltd. ~ 2months. 
-    -- IOT project to remotely monitor the earthpit monitoring systems and developed br
+    - IOT project to remotely monitor the earth pit monitoring systems.
 
 
 Access details of Corporate experiences [here]() -- Coming soon. 
