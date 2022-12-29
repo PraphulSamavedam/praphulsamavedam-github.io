@@ -8,12 +8,15 @@ redirect_from:
   - /curriculumvitae
   - /curriculum
   - /cvitae
+  - / curriculum vitae
+  - /vitae
 ---
 
 {% include base_path %}
 
 ## Education
-* B.E.(Hons.) in Electrical & Electronics Engineering, Birla Institute of Technology and Sciences Pilani (BITS-Pilani), 2014-2018
+* M.S. in Artificial Intelligence, Khoury College of computer sciences, Northeastern University, Boston, Massachusetts. Fall 2022 - Present.
+* B.E.(Hons.) in Electrical & Electronics Engineering, Birla Institute of Technology and Science Pilani (BITS-Pilani), Pilani, India. 2014-2018.
 
 ## Work experience
 * Jul 2018 - Present: Data Scientist at [UBS](https://www.ubs.com/), Pune

@@ -2,8 +2,10 @@
 title: "Control Specialist(Vice President)"
 company: BNY Mellon
 location: Pune, India
-duration: 2<sup>nd</sup> July 2018 - 
-excerpt: "Bring functional changes and enhancements in the schooling department of NSS, BITS-Pilani student chapter<br
-/><img src='/images/500x300.png'>"
+duration: April 2022 - Aug 2022
+excerpt: "Responsible for developing the control analytics reports to senior risk management executives at global level and region level i.e. APAC, AMER and EMEA regions.
+<br/>"
+<b>Deliverables:</b>
+
 collection: experiences
 ---
