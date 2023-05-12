@@ -18,5 +18,5 @@ redirect_from:
 {% include base_path %}
 
 {% for post in site.experiences reversed %}
-  {% include archive-single-cv.html %}
+  {% include archive-single.html %}
 {% endfor %}

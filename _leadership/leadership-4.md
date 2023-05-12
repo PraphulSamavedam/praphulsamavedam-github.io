@@ -1,7 +1,6 @@
 ---
-title: "EEEAssoc APOGEE joint Co-ordinator"
-excerpt: "Successfully jointly organised 2 kernel events i.e. i-Strike and Robots At War (RAW) of the Electrical and
- Electronics Engineers Association (EEEAssoc)  
+title: "IEEE Publicity Co-ordinator"
+excerpt: "Publicise the work to enhance the image of the department
 <br/><img src='/images/500x300.png'>"
 collection: leadership
 ---
