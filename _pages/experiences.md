@@ -9,7 +9,7 @@ redirect_from:
   - /experience.html
   - /corporateExperience.html
   - /corporate
-  - /experiences/
+  - /corporate.html
   - /experience/
   - /work/
   - /corporate/
