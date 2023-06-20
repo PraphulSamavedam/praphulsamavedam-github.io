@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Samavedam Manikhanta Praphul"
 title_separator: ""
 name: &name "Samavedam Manikhanta Praphul"
-description: &description "personal website with major details of my life"
+description: &description "Personal website"
 url: https://praphulsamavedam.github.io # the base hostname & protocol for your site e.g.
 #  "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -83,9 +83,9 @@ analytics:
 author:
   name: "Samavedam Manikhanta Praphul"
   avatar: "profile.png"
-  bio: "Exploring the artificial intelligence and data science worlds"
+  bio: "Exploring the artificial intelligence domain."
   location: "India"
-  employer:
+  employer: 
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: "https://scholar.google.com/citations?user=ZkWDQOcAAAAJ&hl=en"
   email: praphulsamavedam@gmail.com
@@ -95,7 +95,7 @@ author:
   codepen:
   dribbble:
   flickr:
-  facebook:
+  facebook: 
   foursquare:
   github: "praphulsamavedam"
   google_plus:
@@ -301,15 +301,6 @@ whitelist:
 
 
 # Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
