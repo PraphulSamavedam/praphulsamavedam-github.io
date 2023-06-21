@@ -1,13 +1,12 @@
 ---
-title: "Control Specialist (Vice President)"
-company: BNY Mellon
-location: Pune, India
-duration: April 2022 - Aug 2022
-excerpt: "Responsible for developing the control analytics reports to senior risk management executives at global level and region level i.e. APAC, AMER and EMEA regions."
-tech_stack: Python, Excel, Selenium, MySQL, MySQL Server studio, PyDoIt, VBA
-achievements: "
-- Reduced manual efforts by 80% by automating data extraction from reporting portal using Selenium in 1 month. 
-- Shortened report generation time by 8% for APAC, EMEA, and AMER regions through pandas within 3 months. 
-- Worked on chat bot development to have quick customized report generation."
-collection: experiences
+title: "Application Specific Integrated Circuit (ASIC) - Internship/Co-op"      
+company: [Nvidia](https://www.linkedin.com/company/nvidia/)       
+location: Bangalore, India      
+duration: July 2017 - December 2017
+collection: experiences    
+excerpt: "Responsible for maintaining the existing ARM simulator to support the newly added features of ARM v8.x in CPU team."          
+manager: [Navin Yagnamurthy](https://www.linkedin.com/in/navin-yagnamurthy-4289897)     
+team-members:
+- [Abhilash Srinivasan](https://www.linkedin.com/in/abhilash-srinivasan-10211195)
+- [Ashok Patil](https://www.linkedin.com/in/ashokmpatil)     
 ---
