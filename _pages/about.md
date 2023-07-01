@@ -11,14 +11,15 @@ redirect_from:
   - /aboutme/
 ---
 ## Summary
-Currently, pursuing my masters in Artificial Intelligence at the Khoury college of computer sciences, Boston. I dare to travel the unravelled path for a challenging career with nearly 4 years of work experience.
+Currently, pursuing my masters in Artificial Intelligence at the Khoury college of computer sciences, Boston. 
+I dare to travel the unravelled path for a challenging career with nearly 4 years of work experience.
 
 ## Work experiences:
-- Control Specialist at BNY Mellon in Operations Control Management(OCM) division. ~ 4 months
+- Control Specialist at BNY Mellon in Operations Control Management (OCM) division. ~ 4 months
     - Responsible for developing the control analytics reports to senior risk management executives at global level and region level i.e. APAC, AMER and EMEA regions.
-- Graduate Engineer Trainee at UBS in Investment Banking(_IB_) division. ~ 3.5 years
+- Graduate Engineer Trainee at UBS in Investment Banking (_IB_) division. ~ 3.5 years
     - Responsible for developing metrics (KPIs) and data-driven interactive insights dashboards for senior 
-management members in the global markets under Investment Banking(<i>IB</i>) division.
+management members in the global markets under Investment Banking (<i>IB</i>) division.
 - Application Specific Integrated Circuit (ASIC) Internship at Nvidia in CPU division ~ 6 months.
     - Responsible for bare metal tests to support newly introduced features of ARM v8.x for Nvidia’s processor.
 - Summer internship at PensioTech Solutions Pvt. Ltd. ~ 2months. 
@@ -37,7 +38,7 @@ Have a look at [my cv](https://praphulsamavedam.github.io/cv/)
 ## Updates:
 This website is under development so some links might have placeholders, so kindly bare with me , else :raised_hand: via 
 [email](mailto:samavedam.m@northeastern.edu;praphulsamavedam@gmail.com)
-![Site under development](../images/under_development.png 480)
+![Site under development](embedded_images/under_development.png 480)
 
 
 
@@ -55,11 +56,12 @@ This website is under development so some links might have placeholders, so kind
 
 
 
+   
+   
+   
 
-
-
-
-
+  
+  
 
 
 
