@@ -36,35 +36,10 @@ Get my latest resume from [here](https://praphulsamavedam.github.io/resume/)
 Have a look at [my cv](https://praphulsamavedam.github.io/cv/)    
 
 ## Updates:
-This website is under development so some links might have placeholders, so kindly bare with me , else :raised_hand: via 
+<img src="images/under_development.png" width=720 alt="Site Under development"><br>
+This website is under development so some links might have placeholders, so kindly bare with me , else please
 [email](mailto:samavedam.m@northeastern.edu;praphulsamavedam@gmail.com)
-![Site under development](embedded_images/under_development.png 480)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-   
-   
-
-  
-  
-
-
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ###### Note
 This github page is based on the [template](https://academicpages.github.io/) developed by [Stuart Geiger
 ](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
