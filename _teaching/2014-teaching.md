@@ -15,6 +15,7 @@ Fond of teaching, I had joined the schooling department of National service sche
  have taught mathematics, science subjects for them. The average of student's marks improved by nearly 2%. 
 This first chance provided me the opportunity to teach, set paper and grade nearly 60 students. I have additionally taken up to be part of evaluation team.
 
+<img src="/images/">
 Achievements
 - First ever paper evaluation team lead of 4 volunteers to achieve evaluation time less than 7 hours for 140+ papers. 
 - Average marks of my mathematics and science students increased by nearly 7%. 
