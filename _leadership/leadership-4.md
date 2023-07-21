@@ -1,15 +1,12 @@
 ---
 title: "School Coordinator"
-excerpt: "Single point of contact and responsible for the complete functioning of schooling department for the schooling department of NSS, Pilani chapter.
-<img src='/images/leadershipExp/IMG_NSS_SchoolCordinator_Ceremony.jpeg'>"
 collection: leadership
+excerpt: "<img alt='Photo of me receiving the NSS School Co-ordinator degree from the head of NSS division, Pilani chapter.' height='20' src='/images/leadershipExp/IMG_NSS_SchoolCordinator_Ceremony.jpg' title='NSS School Coordinator Ceremony' float='left'/> <br />
+Responsible for the complete functioning of schooling department as a single point of contact (SPOC) at NSS, Pilani chapter."
 ---
 
-## Title
-School Coordinator
-
 ## Organization 
-NSS (National Service Scheme) - Schooling department
+NSS (National Service Scheme)
 
 ## Location
 Pilani, India    
@@ -31,10 +28,15 @@ Additionally, we have added new initiatives of Nav gurukul program which was hug
 selected for the Gurukul program i.e. these under privilege students will now have free education at top institute and 
 best education till their 10+2 program.
 
-<br/>
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnssbits%2Fposts%2Fpfbid02ABFvFTaKge1HsGGh4FwXVdYCqzoNt7RAgMXJqjjhQnyD29boY9JfWa5a9QDv5Sjjl&show_text=true&width=500" width="500" height="633" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+## School 
+### School executive team
 
 
-## School Team
 <img src="/images/teachingExp/IMG_NSS_SchoolTeam_2018.JPG">
 
+
+## Accomplishment Glimpses
+
+<br/>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnssbits%2Fposts%2Fpfbid02ABFvFTaKge1HsGGh4FwXVdYCqzoNt7RAgMXJqjjhQnyD29boY9JfWa5a9QDv5Sjjl&show_text=true&width=500" width="500" height="633" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
