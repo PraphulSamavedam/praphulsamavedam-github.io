@@ -1,15 +1,12 @@
 ---
 title: "School Executive Committee Member"
-excerpt: "Bring functional changes and enhancements in the schooling department of NSS, BITS-Pilani student chapter.<br/>
-<img src='/images/leadershipExp/.jpeg'>"
-collection: leadership    
+collection: leadership  
+excerpt: "<img src='/images/leadershipExp/IMG_NSS_School_ExCom_Speech.JPG' alt='NSS School Executive Committee speech' height='100'><br/>
+Bring functional changes and enhancements in the schooling department of NSS, BITS-Pilani student chapter." 
 ---
 
-## Title
-Executive Committee Member
-
 ## Organization 
-NSS (National Service Scheme) - Schooling department
+NSS (National Service Scheme)
 
 ## Location
 Pilani, India    
