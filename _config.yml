@@ -9,7 +9,7 @@
 locale: "en-US"
 title: "Samavedam Manikhanta Praphul"
 title_separator: ""
-name: &name "Samavedam Manikhanta Praphul"
+name: &name "Sama"
 description: &description "Personal website"
 url: https://praphulsamavedam.github.io # the base hostname & protocol for your site e.g.
 #  "https://mmistakes.github.io"
@@ -49,6 +49,10 @@ staticman:
         format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path: # blank (default) uses feed.xml
+linkedin_badge: |
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="smpraphul" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/smpraphul?trk=profile-badge">Samavedam Manikhanta Praphul</a></div>
+#  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="SMPraphul" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/SMPraphul?trk=profile-badge">SMPraphul</a></div>
 
 # SEO Related
 google_site_verification:
@@ -84,11 +88,11 @@ author:
   name: "Samavedam Manikhanta Praphul"
   avatar: "profile.png"
   bio: "Exploring the artificial intelligence domain."
-  location: "India"
+  location: "United States"
   employer: 
-  pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: "https://scholar.google.com/citations?user=ZkWDQOcAAAAJ&hl=en"
-  email: praphulsamavedam@gmail.com
+  email: praphulsamavedam@gmail.com; samavedam.m@northeastern.edu
   researchgate:  # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:

@@ -10,8 +10,10 @@ redirect_from:
   - /aboutme.html
   - /aboutme/
 ---
-## Summary
+
 Currently, pursuing my masters in Artificial Intelligence at the Khoury college of computer sciences, Boston. 
+I have nearly 4 years of experience working in cross-functional teams at Nvidia, UBS, BNY Mellon, PensioTech, Sway AI 
+companies in different capacities ranging from intern to data scientist. During these   
 I dare to travel the unravelled path for a challenging career with nearly 4 years of work experience.
 
 ## Work experiences:
@@ -34,6 +36,10 @@ Get my latest resume from [here](https://praphulsamavedam.github.io/resume/)
 
 ## Curriculum Vitae
 Have a look at [my cv](https://praphulsamavedam.github.io/cv/)    
+
+## LinkedIn profile badge
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="smpraphul" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/smpraphul?trk=profile-badge">Samavedam Manikhanta Praphul</a></div>
 
 ## Updates:
 <img src="images/under_development.png" width=720 alt="Site Under development"><br>

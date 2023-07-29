@@ -1,7 +1,7 @@
 ---
 collection: experiences   
 permalink: /experiences/experience-4  
-title: Control Specialist @ BNY Mellon
+title: Control Specialist @ <img src="/images/workExp/bny_mellon.png" alt="BNY Mellon">
 company: BNY Mellon 
 location: Pune, India    
 duration: April 2022 - August 2022
