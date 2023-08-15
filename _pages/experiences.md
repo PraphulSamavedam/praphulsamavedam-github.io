@@ -15,8 +15,12 @@ redirect_from:
   - /corporate/
 ---
 
+
 {% include base_path %}
 
+<ul>
 {% for post in site.experiences reversed %}
-  {% include archive-single-cv.html %}
+  <li> {% include archive-single-cv.html %} </li>
 {% endfor %}
+</ul>
+

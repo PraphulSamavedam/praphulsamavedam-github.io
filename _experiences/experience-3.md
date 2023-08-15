@@ -1,7 +1,7 @@
 ---
 collection: experiences
 permalink: /experiences/experience-3  
-title: Graduate Engineer Trainee @ UBS     
+title: Graduate Engineer Trainee @ UBS <img src="/images/workExp/ubs-logo.png" alt="UBS logo">    
 company: UBS
 location: Pune, India.      
 duration: July 2022 - March 2022
