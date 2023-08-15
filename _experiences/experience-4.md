@@ -1,7 +1,7 @@
 ---
 collection: experiences   
 permalink: /experiences/experience-4  
-title: Control Specialist @ <img src="/images/workExp/bny_mellon.png" alt="BNY Mellon">
+title: Control Specialist @ BNY Mellon <img src="/images/workExp/bny-mellon-logo.png" alt="BNY Mellon logo">
 company: BNY Mellon 
 location: Pune, India    
 duration: April 2022 - August 2022
@@ -25,7 +25,8 @@ April 2022 - August 2022
 ### Team Manager: Richard Stone
 ### Team Members
 - [Karolina Andruchów](https://www.linkedin.com/in/karolina-andruch%C3%B3w-a4b2a2177)
-- [Jose Lopez Mouzo](https://www.linkedin.com/in/jose-lopez-mouzo-b5588013b), [Ryannon Starkey](https://www.linkedin.com/in/ryannon-starkey-msba-0b6526163)
+- [Jose Lopez Mouzo](https://www.linkedin.com/in/jose-lopez-mouzo-b5588013b)
+- [Ryannon Starkey](https://www.linkedin.com/in/ryannon-starkey-msba-0b6526163)
 - [Igor Gierlak](https://www.linkedin.com/in/igor-gierlak)
 - [Roshan M S](https://www.linkedin.com/in/roshan-m-s-b0897617)
 

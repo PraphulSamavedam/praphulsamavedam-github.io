@@ -2,7 +2,8 @@
 title: "Natural Language Inference"
 excerpt: "We explored archaic and modern machine learning algorithms including large language model(LLM) for natural 
 language inference(NLI).<br/>
-<img src='/images/portfolio/NLI_results.png' width='600' height='300'>"
+<img height='300' src='/images/portfolio/NLI_results_300.png' width='600'/>
+"
 collection: portfolio
 ---
 
@@ -29,9 +30,12 @@ NLI is a valuable testing ground for the development of semantic representations
 This is a team project focussed on exploring the archaic and modern ML algorithms including large language models (LLM) 
 performance for the task of natural language inference (NLI). In this project, for the archaic ML exploration, we have 
 considered the Logistic Regression, Naive Bayes and for the modern ML exploration we have considered LSTMs, Bi-LSTMs,
-and fine-tuned BERT. The results are as follows:
+and fine-tuned the transformer 'BERT'. In the process we have engineered few features to find the overlapping of words
+between the statements as below, which we have improved the performance of archaic ML models.
 
+<img src="/images/portfolio/NLI_eng_features.png" alt="Engineered features"/>
 
+The results are as follows:
 
 ## Results
-<img src="/images/portfolio/NLI_results.jpg" alt="placeholder for NLI results">
+<img src="/images/portfolio/NLI_results.jpg" alt="placeholder for NLI results"/>

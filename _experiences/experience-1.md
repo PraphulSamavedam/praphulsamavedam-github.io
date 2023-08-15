@@ -1,7 +1,7 @@
 ---
 collection: experiences  
 permalink: /experiences/experience-1
-title: IoT Summer intern @ PensioTech
+title: IoT Summer intern @ PensioTech <img src='/images/workExp/pensio-tech-logo.png' alt='Pensio Tech logo'>
 company: Pensio Tech Pvt. Ltd.
 location: Hyderabad, India
 duration: June 2022 - July 2022

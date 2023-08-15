@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Samavedam Manikhanta Praphul"
+title: "Sama"
 title_separator: ""
 name: &name "Sama"
 description: &description "Personal website"

@@ -1,7 +1,7 @@
 ---
 collection: experiences    
 permalink: /experiences/experience-2  
-title: ASIC (Application Specific Integrated Circuit) - Internship/Co-op @ Nvidia      
+title: ASIC (Application Specific Integrated Circuit) - Internship/Co-op @ Nvidia <img src='/images/workExp/nvidia-logo.png' alt='Nvidia Logo'>    
 company: Nvidia
 location: Bangalore, India      
 duration: July 2017 - December 2017
