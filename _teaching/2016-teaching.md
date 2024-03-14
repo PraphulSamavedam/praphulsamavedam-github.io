@@ -5,7 +5,7 @@ type: "School teaching for 9<sup>th</sup>class"
 permalink: /teaching/2016-teaching
 venue: "Schooling department, National Service Scheme (NSS), BITS-Pilani"
 date: 2016-08-04
-to_date: 2017-05-01
+to_date: 2017-04-29
 location: "Pilani, India"
 ---
 
