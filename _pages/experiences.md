@@ -20,7 +20,7 @@ redirect_from:
 
 <ul>
 {% for post in site.experiences reversed %}
-  <li> {% include archive-single-cv.html %} </li>
+  <li> {% include archive-single.html %} </li>
 {% endfor %}
 <!--   {% include archive-single.html %} -->
 </ul>

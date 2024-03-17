@@ -16,12 +16,18 @@ redirect_from:
 
 Education
 ======
-* M.S. in Artificial Intelligence, Khoury College of computer sciences, Northeastern University, Boston, Massachusetts. Fall 2022 - Present.
+* M.S. in Artificial Intelligence, Khoury College of Computer Sciences, Northeastern University, Boston, Massachusetts. Fall 2022 - Present.
 * B.E.(Hons.) in Electrical & Electronics Engineering, Birla Institute of Technology and Science Pilani (BITS-Pilani), Pilani, India. 2014-2018.
 
 Work experience
 ======
-* Jul 2023 - Present: Applied AI/ML Coop at [Sway AI](https://sway-ai.com/), Boston
+  <ul>{% for post in site.experiences reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+<!-- Work experience
+======
+* Jul 2023 - Jan 2024: Machine Learning Engineer Intern at [Sway AI](https://sway-ai.com/), Boston
   * **Co-op Summary:** Responsible for developing well-designed, scalable implementations, validating and deploying Machine Learning/ Deep Learning models in Python using AWS SageMaker, Airflow, MetaFlow/KubeFlow, etc. for various problems in Big-data.
 * Apr 2022 - July 2022: Control Specialist at [BNY Mellon](), Pune
   * **Job Summary:** Responsible for developing the control analytics reports to senior risk management executives at global level and region level i.e. APAC, AMER and EMEA regions. 
@@ -31,7 +37,28 @@ Work experience
   * **Internship Summary:** Validation of hardware architecture to be ARM Compliant.
 * Jun 2016 - Jul 2016: IoT application development at [PensioTech Pvt. Ltd](https://in.linkedin.com/company/pensio-software-technologies-pvt-ltd), Hyderabad
   * **Internship Summary:** Development of remote monitoring system for transformers.
-  
+   -->
+    
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Leadership
+======
+  <ul>{% for post in site.leadership reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+ 
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Skills
+==========
 [//]: # (## Programming Languages)
 
 [//]: # (Python ![Python logo]&#40;images/languages/Python-logo.png 9x9&#41;)
@@ -69,21 +96,3 @@ Work experience
 [//]: # (    * Microsoft Azure &#40;AI-900, DP-900, AZ-900 certified&#41;)
 
 [//]: # (    * Apache Spark)
-    
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Leadership
-======
-  <ul>{% for post in site.leadership %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
- 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
