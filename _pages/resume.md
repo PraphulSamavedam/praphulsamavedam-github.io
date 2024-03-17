@@ -34,4 +34,3 @@ redirect_from:
 - Paper version
 [View](../files/PaperResume-SamavedamManikhantaPraphul-DataScientist.pdf)
 [Download](https://github.com/PraphulSamavedam/praphulsamavedam.github.io/raw/master/files/PaperResume-SamavedamManikhantaPraphul-DataScientist.pdf)
-
