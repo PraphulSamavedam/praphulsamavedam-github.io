@@ -54,6 +54,10 @@ linkedin_badge: |
   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="smpraphul" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/smpraphul?trk=profile-badge">Samavedam Manikhanta Praphul</a></div>
 #  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="SMPraphul" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/SMPraphul?trk=profile-badge">SMPraphul</a></div>
 
+# Themes
+theme: minimal-mistakes-jekyll
+
+
 # SEO Related
 google_site_verification:
 bing_site_verification:

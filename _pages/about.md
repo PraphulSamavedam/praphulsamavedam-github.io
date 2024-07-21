@@ -19,19 +19,32 @@ connect. Thank you for your time to visiting my site and getting to know about m
 
 ## Summary
 
-I am currently pursuing my masters in Artificial Intelligence (AI) at Khoury College of Computer Sciences, Northeastern University and looking opportunities for Summer 2024. Currently carrying out **research** on Visual LLM (Multi-modal LLM), AI Ethics framework extension.
+I am currently pursuing my masters in Artificial Intelligence (AI) at 
+Khoury College of Computer Sciences, Northeastern University.
+Actively looking opportunities starting from **_January 2025_**. Currently, 
+carrying out **research** on Visual LLM (Multi-modal LLM), AI Ethics framework extension.
 
-I have concluded my Machine Learning Engineer Intern Co-op at an innovative no code AI startup 'Sway AI', Boston in Jan 2024. Additionally, I possess nearly 4 years of experience working as Machine Learning Engineer at Nvidia, UBS, BNY Mellon, and PensioTech with with senior management members of cross-functional teams, utilizing Agile methodologies.
+I have concluded my Machine Learning Engineer Intern Co-op at an innovative 
+no code AI startup 'Sway AI' (Cloud based ML Platform development), Boston in 
+Jan 2024. Additionally, I possess 4 years of experience working as Machine Learning Engineer at Nvidia, UBS, BNY Mellon, and PensioTech with senior management members of cross-functional teams, utilizing Agile methodologies.
 
-In predictive modelling hackathons, I have won 
-**1<i><sup>st</sup></i>** position in UBS's Superstars. Also, I have secured <b>5<i><sup>th</sup></i></b> and <b>14<sup><i>th</i></sup></b> positions at competitive hackathons for predicting image downloads and forecasting sales hosted on Kaggle and Analytics Vidya respectively.
+Achievements:
+- **1<i><sup>st</sup></i>** position in UBS's Superstars (AI category).
+- **<b>5<i><sup>th</sup></i></b>** position at Kaggle's image download 
+  prediction.
+- **14<i><sup>th</sup></i>** (Top - 0.2%) at Sales forecasting hackathon. 
+
+<!-- In predictive modelling hackathons, I have won 
+**1<i><sup>st</sup></i>** position in UBS's Superstars. Also, I have secured  and <b>14<sup><i>th</i></sup></b> positions at competitive hackathons for predicting image downloads and forecasting sales hosted on Kaggle and Analytics Vidya respectively.
+-->
 
 <!-- Coming to my journey, I have did my undergraduate studies in Electrical and Electronics Engineering at BITS-Pilani (No 1. Private Engineering College) with my Co-ops, internships at Nvidia, PensioTech. Post undergraduate studies, I have worked for 4 years at UBS, BNY Mellon where I was promoted and recognized with several awards. Currently on set to do my master's degree in Artificial Intelligence (AI). Throughout journey
 
 By leveraging my technical skills and knowledge of artificial intelligence, I was able to develop solutions that streamlined processes and increased efficiency. -->
 
-Overall, I am a highly motivated, daring individual with a passion for artificial intelligence and a strong desire to have a challenging career with positive impact in the field. My diverse skill set and experiences make me an ideal candidate for any organization looking to innovate and grow.
-
+<!-- Overall, I am a highly motivated, daring individual with a passion for 
+artificial intelligence and a strong desire to have a challenging career with positive impact in the field. My diverse skill set and experiences make me an ideal candidate for any organization looking to innovate and grow.
+-->
 <!-- My undergraduate studies in Electrical and Electronics Engineering at India's top private university 
 BITS-Pilani, Pilani campus have given me a strong foundation in hardware, which I believe will be beneficial in 
 developing the best products that have software perfectly optimized with underlying hardware. So I strongly believe that 
@@ -54,7 +67,7 @@ we have a strong background in both software and hardware through my educational
 
 
 ## [Work experiences](https://praphulsamavedam.github.io/experiences/):
-- Machine Learning Engineer Intern at Sway AI ~ 6 months <img src='/images/workExp/sway-ai-logo.png' alt='Sway AI logo', height='100'>
+- Machine Learning Engineer Intern at Sway AI ~ 6 months <img src='/images/workExp/sway-ai-logo.png' alt='Sway AI logo' height='100'>
 - Machine Learning Engineer at BNY Mellon ~ 4 months <img src='/images/workExp/bny-mellon-logo.png' alt='BNY Mellon logo' height='100'>
 - Machine Learning Engineer at UBS ~ 3.5 years (44 months) <img src='/images/workExp/ubs-logo.png' alt='UBS logo' height='100'>
 - Fall Co-op at Nvidia ~ 6 months <img src='/images/workExp/nvidia-logo.png' alt='Nvidia logo' height='100'>
